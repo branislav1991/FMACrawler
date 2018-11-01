@@ -1,0 +1,6 @@
+.vscode
+__pycache__
+eu_richtlinien
+eu_verordnungen
+no_url_eu_richtlinien.json
+no_url_eu_verordnungen.json
